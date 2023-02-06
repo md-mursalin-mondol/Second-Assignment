@@ -164,3 +164,20 @@
     margin-left: 350px;
 
 }
+/* Responsive */
+@media  screen and (max-width:570px) {
+    .h-li, .nav-title, .brand{
+        flex-direction: column;
+        text-align: center;
+    }
+    .love-enjoy{
+        flex-direction: column-reverse;
+    }
+    .images,.grid-1,.imgs-3, .logo{
+     flex-direction: column;
+    }
+    .logo {
+        text-align: center;
+        gap: 35px;
+    }
+ }
