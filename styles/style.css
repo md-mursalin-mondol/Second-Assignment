@@ -1,0 +1,166 @@
+/* nav bar */
+.nav-title{
+    display: flex;
+    justify-content: space-between;
+}
+.he{
+    font-size: 35px;
+}
+.h-li{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+/* Second Architects */
+.brand{
+    margin-left: 650px;
+    font-size: 30px;
+}
+.brand-1{
+    margin-left: 600px;
+    font-size: 30px;
+}
+.first-info{
+    margin-left: 450px;
+    margin-right: 350px;
+}
+.first-inf-1{
+    margin-left: 470px;
+}
+.btn-01{
+    color: orangered;
+    margin-left: 700px;
+    margin-bottom: 35px;
+}
+/* banner */
+.banner{
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+/* Grid four photos */
+.grid-1{
+    display: flex;
+    
+}
+.grid-info{
+    margin-left: 50px;
+    margin-top: 250px;
+}
+.images{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
+#quick{
+    color: aqua;}
+#our{
+    font-weight: 700;
+}
+.fe{
+    color: green;
+}
+.btn-02{
+    color: orangered;
+}
+/* LOve & Enjoy */
+.love-enjoy{
+    display: flex;
+}
+.lin{
+    background-color:white;
+}
+.enjoy-text{
+    border: 10px;
+    color: black;
+}
+.enjoyes1{
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: antiquewhite;
+    width: 530px;
+}
+.loves{
+    background-color: antiquewhite;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 550px;
+    height: 170px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+} 
+.b-arc{
+    margin-top: 30px;
+    margin-left: 40px;
+   
+}
+.btn-3{
+    color: orangered;
+    padding: 20px;
+ margin-left: 550px;
+}
+/* Some Facts */
+.facts{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.imgs-3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left:50px ;
+}
+.imgs-3{
+    text-align: center;
+   
+}
+/* My Site */
+.my-para{
+    margin-top: 40px;
+   justify-content: center;
+    display: flex;
+    background-color:lightpink;
+}
+.my-title{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.my-li{
+    list-style: none;
+    margin-left: 20px;
+}
+.btn-4{
+    color: orangered;
+}
+/* Sponsars */
+.sp-1{
+    margin-top: 40px;
+    margin-left: 600px;
+    font-size: 35px;
+ 
+}
+.sp-2{
+    margin-left: 150px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+/* LOgo */
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+/* footer */
+.fotter{
+    text-align: center;
+    margin-top: 40px;
+    padding: 35px;
+    background-color:yellow;
+    width: 800px;
+    font-weight: 600px;
+    margin-left: 350px;
+
+}
